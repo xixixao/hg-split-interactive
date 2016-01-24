@@ -1,0 +1,12 @@
+{
+  "name": "pick-lines",
+  "version": "0.1.0",
+  "description": "pick lines from input interactively",
+  "bin": "hg-split-interactive.sh",
+  "author": "xixixao",
+  "license": "MIT",
+  "dependencies": {
+    "hg-split": "xixixao/hg-split",
+    "pick-lines": "xixixao/pick-lines"
+  }
+}
